@@ -1,7 +1,7 @@
 # Taunahi
 <div align="center">
   <a target="_blank">
-    <img alt="version" src="https://img.shields.io/github/v/release/Quantizr/DungeonRoomsMod?color=%239f00ff&style=for-the-badge" />
+    <img alt="version" src="https://img.shields.io/badge/MC%20Version-1.8.9-blue?color=%239f00ff&style=for-the-badge" />
   </a>
   <a target="_blank">
     <img alt="mcversion" src="https://img.shields.io/badge/Release-3.5.34-blue?color=%239f00ff&style=for-the-badge" />
