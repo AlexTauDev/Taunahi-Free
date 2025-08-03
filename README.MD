@@ -35,7 +35,7 @@ If you don't need to be shown how to install a Forge mod, you can leave this gui
 - Place your Taunahi `.jar` file in this folder.
 - **It is strongly recommended to also install OptiFine and Patcher.** Other SkyBlock-related mods may also help but can sometimes cause mod conflicts.
 
----
+--- 
 
 ## Basic Usage
 
