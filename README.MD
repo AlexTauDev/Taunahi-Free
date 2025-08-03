@@ -56,9 +56,9 @@ Steps to allocate more:
 3. Hover over your 1.8.9 Forge profile, click the three dots, and choose *Edit*.
 4. Click *More Options* at the bottom.
 5. Find the *JVM Arguments* section. The first argument controls RAM, and looks like this:
-   ```
-   -Xmx2G
-   ```
+```
+-Xmx2G
+```
 
 If you want to allocate 6GB instead, change it to:
 ```
